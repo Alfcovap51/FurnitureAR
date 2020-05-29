@@ -9,3 +9,6 @@ You will need the following plugins to run the project.
 
 Asset Credit:
 <div>Icons made by <a href="https://www.flaticon.com/free-icon/info@pixelbuddha.net" title="Pixel Buddha">Pixel Buddha</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+3D model
+https://www.ronenbekerman.com/25-free-3d-furniture-model-odesd2/#read-more-content
